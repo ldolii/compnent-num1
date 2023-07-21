@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<bookstore><book id="001"><title>Python for Beginners</title><author>John Smith</author><year>2019</year></book><book id="002"><title>Advanced Python</title><author>Jane Doe</author><year>2020</year></book></bookstore>
